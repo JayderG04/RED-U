@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Uno lo que anda es atras de su feria
           </a>
         </p>
       </header>
